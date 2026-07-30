@@ -2,7 +2,7 @@
 title: Enchantments
 description: Information on how to obtain enchantments and ExcellentEnchants
 published: true
-date: 2026-06-22T02:04:33.538Z
+date: 2026-07-30T10:49:22.729Z
 tags: server mechanics, enchantments
 editor: markdown
 dateCreated: 2026-05-28T11:13:05.317Z
