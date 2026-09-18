@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-09-12T03:43:11.024Z
+date: 2026-09-18T11:42:47.056Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-09T10:27:42.214Z
@@ -11,7 +11,7 @@ dateCreated: 2025-10-09T10:27:42.214Z
 > The wiki is a work in progress. It may not currently contain accurate information.
 {.is-info}
 
-> The Minemist wiki is open for anyone to edit. We appreciate any community volunteers who are able to keep information up to date.
+> The Minemist wiki is open for anyone to [edit](<https://github.com/Marshoi-Co/minemist-wiki>). We appreciate any community volunteers who are able to keep information up to date.
 {.is-success}
 
 
